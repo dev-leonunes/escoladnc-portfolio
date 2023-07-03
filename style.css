@@ -241,7 +241,7 @@ h1.black {
 
 @media screen and (max-width: 600px) {
     #header {
-        margin: 10px 0px 10px 0px;
+        margin: 15px 0px 15px 0px;
     }
     #menu li {
         display: block;
@@ -272,7 +272,7 @@ h1.black {
         margin-bottom: 15px;
     }
     #textServices {
-        margin-bottom: 10px;
+        margin-bottom: 15px;
     }
     .elipse {
         margin: auto;
@@ -282,7 +282,7 @@ h1.black {
         font-style: normal;
         font-weight: normal;
         font-size: 16px;
-        line-height: 30px;
+        line-height: 32px;
         color: #575455;
     }
     .container#clients {
@@ -293,8 +293,8 @@ h1.black {
         margin-top: 20px;
     }
     .textCenter h3 {
-        margin-top: 0;
-        margin-bottom: 0;
+        margin-top: 5px;
+        margin-bottom: 5px;
     }
     p.gray {
         margin-top: 0px;
@@ -317,3 +317,4 @@ h1.black {
         margin-top: 0;
     }
 }
+
